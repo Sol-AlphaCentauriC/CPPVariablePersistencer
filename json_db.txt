@@ -1,0 +1,9 @@
+{
+  "class_test": {
+    "string_in_class": "test string content",
+    "sub_class": {
+      "int_in_class_sub": 114,
+      "string_in_class_sub": "test string in sub class content"
+    }
+  }
+}
