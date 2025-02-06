@@ -1,13 +1,7 @@
 ﻿#ifndef _VARIABLE_PERSISTENCE_BY_REF_WRAPPER_H
 #define _VARIABLE_PERSISTENCE_BY_REF_WRAPPER_H
 
-#include <tuple>
-#include <string>
 #include <fstream>
-#include <sstream>
-#include <vector>
-#include <thread>
-#include <memory>
 #include <mutex>
 #include "json.hpp"
 
